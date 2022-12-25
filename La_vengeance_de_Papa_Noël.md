@@ -35,8 +35,8 @@ Vous pouvez décider de leurs rôles ainsi que de leur action tout au long de le
 Vous pouvez donner plusieurs actions en criant fort :
 
  - "*I wanna go further !*" => Vous permettant d'avancer plus loin
- - "*I wanna attack !*" => Vous permettant de fuir
- - "*I wanna RUNAWAAAAY*" => Vous permettant d'attaquer
+ - "*I wanna attack !*" => Vous permettant d'attaquer
+ - "*I wanna RUNAWAAAAY*" => Vous permettant de fuir
 
  Lorsque vous avancez dans le Wourtopia vous pouvez rencontrer différents monstres ainsi que des variations de ces monstres :
  
