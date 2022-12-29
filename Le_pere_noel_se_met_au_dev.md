@@ -9,7 +9,7 @@ Dans ce challenge, on a accès au code source de l'application. En utilisant l'a
 En regardant le code source de l'application, on sait que si l'username est `admin` le flag est affiché sur la page. Cependant, seul une personne en local pour donner le nom d'utilisateur `admin`.
 Alors on va s'intéresser à la page de report, qui sera notre moyen d'interagir avec le bot.
 
-# Premère essai
+# Premier essai
 
 Puisqu'on peut envoyer une page HTML au bot, on peut essayer de lui demander de charger la page d'accueil et en suivant la redirection, on aura le flag.
 ```html
